@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "wengyuli",
+  "private_key_id": "cb6c41a4044a45aec131cc44d65a01b1ccbfa0db",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4+GkYYt3XLP5T\nCyJey1JqpQLmm9UsA+w+PWrp7uHaRbMokStvaHvgDo7mnZ3ThMi0Af/A0HdH1Iaw\noTwaBpqzyXgl5BxB7XeupbP5+xLCVFA9tfj09RYdsAOUPbacPj6VZx9ordhGC0ty\nTVIT0E7rywWwcas4ZpkuCOMzl42d4Byh++Nd115x9RgKZ38Ve/dFA5R3JqknzT5c\nhVAIeBzqbpLcAqOkcSBsAeKQRuD0G+tD54pqzUf0TZ86CWWw5JZnYIlQQGJa6AOv\nPX3EmafzPKwXFdAxifyLpgNdpHJLlpFttXLmyP05J7HB+g0Sebs6ny0WDML+zIew\nJSDwlcjJAgMBAAECggEAAcNewhcgK6Qfx6lzojZwh83LSNOLsnFA9rNrF1rZ9N9k\n9qzSk+EUYYrV+8wHvvuf1k/DZmJo/qqU6ZkHMQLRhZz00UdQPyR3t3bCz/iqbDyK\n7W7/K2ZCLUCEz4xlNxj59lPe3GaK08PEDCKr9tPNoB5bGfxYEDAHLgWIP+ZwuMRl\nLf9iRZOGJMb3mMaMovVpQgQiY5kfWI8DDJ5WuygSL69CyXeYcqsg5eNpJREkAMN0\ny0S0HFeiIpgL+34tGhDRrSQzgi11NJSVFNFHVejaAQu0QSgHWBrRilfDm0R4IVbv\n2/rABwh+80Mmb7Egdj0CnBY8UqjcCKwdc+ynkz7fwQKBgQDlQbxKm2K8ruQxzyin\noVuJY+c2wyhS0QqIzcwlXNb44AR0gwg1B+vkCJQIijKk8janP7QMWYvdO+ZHq9pK\nz5Nv6StRllRZPUPMPPU/6FaCi5BKSzUEaYLawKwsYHE8XOcaOxSW7rLPQdYMk4nb\nV7f2M315RcjY1oQ46dbyzWYviQKBgQDOjCfJZ4xt3kWO1E+X++J2RpQL/beRmVvT\nD20x6XgxInXPKhaWuye5m1vOqUONv7Jk08Lq7v064vKJjP36A8n5R0t5CQIpPA2R\nsVhQfz+UKLPBNyT5jhQD3PwDEBZym8twD4eAJSdy5J1+qE7nbLy+YVT/V+q0rwIy\n/r6IDyk/QQKBgQDdAE6MOViofYwbfBE772+3dSgqAV343+1gzcrzZZkSV5nT25Do\n1lcO/zn9NYP2wEvxVJazpQsQXTLzenY30fzWUBdjUiDD2ixmUYk2bzoeJH4XMILO\nWww65qvTJ7FhOEnMXpHNohObemLmwr+NQ/ViEGbvplckuT7DQqDkdR8ByQKBgQCt\nHKr8Et2P+As0ep17NJHJr73FjxCb530emH9cpeEmzUsQJqZoDtRsq9l2jEciNti9\nyP5FCakUAcJlptX3BdXyJ98JwpMdHEgDJDBwxzXyZ2rBNga3Ym1ED6LorkMiK5GG\nin122a0GjrWxwj7fmDNZHRqwKG9+oG+nbfsi7hIUAQKBgEWvnxGwv+tJolsMAp3D\nbDov3dtQRjuN5oHBSgffSYvo503vUei/T4unwGDyhjyXOFCs2hTYaZw0F3VCX5OT\njzOn9gbZbhYi+26SQWqHi2drmDSLMWc5mCWuYbELViCtCkJi05IX0XuzaKK80/K5\nIvyKemtdZyRzLWXfJwTiVfUB\n-----END PRIVATE KEY-----\n",
+  "client_email": "ott-video@wengyuli.iam.gserviceaccount.com",
+  "client_id": "106038218297199119562",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ott-video%40wengyuli.iam.gserviceaccount.com"
+}
